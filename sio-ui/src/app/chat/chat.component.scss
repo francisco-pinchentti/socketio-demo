@@ -1,0 +1,13 @@
+section {
+    width: 100%;
+    display: flex;
+}
+
+form {
+    flex-grow: 0.3;
+}
+
+.list-group {
+    flex-grow: 0.7;
+    margin-left: 24px;
+}
